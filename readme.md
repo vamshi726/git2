@@ -6,4 +6,4 @@ _Writing in Markdown is not that hard!_
 
 "_Of course_," she whispered. Then, **she shouted**
 
-**_ This in unbelievable_**
+**_This in unbelievable_**
