@@ -1,3 +1,3 @@
-# this is practiceof git and mark down
+# Markdown Practice
 
-# git2
+__Writing in Markdown is not that hard!__
