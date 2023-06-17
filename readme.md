@@ -8,11 +8,11 @@ _Writing in Markdown is not that hard!_
 
 **_This in unbelievable_**
 
-** Headers in git**
+**Headers in git**
 
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
